@@ -1,2 +1,3 @@
 # Algorithms
-//implementations in C/C++ or Delphi/Pascal
+I have this implemented in C/C++ and Delphi/Pascal
+this is C++ port
